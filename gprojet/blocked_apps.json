@@ -1,0 +1,14 @@
+{
+    "Edge": {
+        "exe_names": [
+            "edge"
+        ],
+        "blocked": true
+    },
+    "Applications recommand\u00e9es Autodesk 2020": {
+        "exe_names": [
+            "applicationsrecommand\u00e9esautodesk2020"
+        ],
+        "blocked": true
+    }
+}
